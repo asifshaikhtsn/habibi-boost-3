@@ -49,12 +49,6 @@
       "source": "ProxRipper"
     },
     {
-      "proxy": "209.97.150.167:80",
-      "country": "US",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "34.43.46.91:80",
       "country": "US",
       "protocol": "HTTPS",
@@ -547,12 +541,6 @@
       "source": "ProxRipper"
     },
     {
-      "proxy": "113.161.93.6:8080",
-      "country": "VN",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "114.246.194.209:8888",
       "country": "CN",
       "protocol": "HTTPS",
@@ -561,12 +549,6 @@
     {
       "proxy": "128.199.254.13:9090",
       "country": "SG",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "177.234.217.42:999",
-      "country": "EC",
       "protocol": "HTTPS",
       "source": "ProxRipper"
     },
@@ -661,12 +643,6 @@
       "source": "ProxRipper"
     },
     {
-      "proxy": "164.163.74.97:999",
-      "country": "HN",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "167.233.243.116:3128",
       "country": "DE",
       "protocol": "HTTPS",
@@ -727,12 +703,6 @@
       "source": "ProxRipper"
     },
     {
-      "proxy": "186.96.111.214:999",
-      "country": "CO",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "198.244.254.77:3128",
       "country": "GB",
       "protocol": "HTTPS",
@@ -763,12 +733,6 @@
       "source": "ProxRipper"
     },
     {
-      "proxy": "186.33.51.9:999",
-      "country": "CO",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "200.36.178.42:999",
       "country": "MX",
       "protocol": "HTTPS",
@@ -776,12 +740,6 @@
     },
     {
       "proxy": "209.97.150.167:8080",
-      "country": "US",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "216.49.115.7:8080",
       "country": "US",
       "protocol": "HTTPS",
       "source": "ProxRipper"
@@ -823,38 +781,8 @@
       "source": "ProxRipper"
     },
     {
-      "proxy": "177.234.217.43:999",
-      "country": "EC",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "177.234.221.204:999",
       "country": "EC",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "181.129.183.19:53281",
-      "country": "CO",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "183.45.77.81:1080",
-      "country": "CN",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "183.45.77.81:1081",
-      "country": "CN",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "200.94.38.45:2604",
-      "country": "MX",
       "protocol": "HTTPS",
       "source": "ProxRipper"
     },
@@ -883,20 +811,8 @@
       "source": "ProxRipper"
     },
     {
-      "proxy": "45.71.186.212:999",
-      "country": "EC",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "49.156.44.115:8080",
       "country": "KH",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "52.254.114.3:8443",
-      "country": "US",
       "protocol": "HTTPS",
       "source": "ProxRipper"
     },
@@ -907,38 +823,8 @@
       "source": "ProxRipper"
     },
     {
-      "proxy": "168.195.168.182:8080",
-      "country": "BR",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "103.82.246.27:6080",
       "country": "ID",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "106.75.133.108:8080",
-      "country": "CN",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "107.167.18.122:443",
-      "country": "US",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "111.119.162.248:10902",
-      "country": "PK",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "111.119.162.248:10904",
-      "country": "PK",
       "protocol": "HTTPS",
       "source": "ProxRipper"
     },
@@ -985,26 +871,8 @@
       "source": "ProxRipper"
     },
     {
-      "proxy": "152.70.156.142:3128",
-      "country": "US",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "157.10.97.153:8080",
       "country": "ID",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "160.22.205.66:8090",
-      "country": "ID",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "161.97.88.191:3128",
-      "country": "FR",
       "protocol": "HTTPS",
       "source": "ProxRipper"
     },
@@ -1041,18 +909,6 @@
     {
       "proxy": "38.50.165.125:999",
       "country": "DO",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "43.156.227.68:80",
-      "country": "SG",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "45.71.186.211:999",
-      "country": "EC",
       "protocol": "HTTPS",
       "source": "ProxRipper"
     },
@@ -1165,12 +1021,6 @@
       "source": "ProxRipper"
     },
     {
-      "proxy": "180.191.23.171:8081",
-      "country": "PH",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "181.78.194.249:999",
       "country": "EC",
       "protocol": "HTTPS",
@@ -1207,20 +1057,8 @@
       "source": "ProxRipper"
     },
     {
-      "proxy": "187.249.112.221:999",
-      "country": "MX",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "190.14.32.231:1080",
       "country": "AR",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "190.60.34.250:999",
-      "country": "CO",
       "protocol": "HTTPS",
       "source": "ProxRipper"
     },
@@ -1237,20 +1075,8 @@
       "source": "ProxRipper"
     },
     {
-      "proxy": "192.3.196.141:1080",
-      "country": "US",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "193.19.145.194:8080",
       "country": "IR",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "198.199.86.11:8080",
-      "country": "US",
       "protocol": "HTTPS",
       "source": "ProxRipper"
     },
@@ -1273,24 +1099,6 @@
       "source": "ProxRipper"
     },
     {
-      "proxy": "201.150.148.227:8080",
-      "country": "BR",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "201.7.31.181:8080",
-      "country": "TR",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "203.205.49.2:10052",
-      "country": "VN",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "203.252.142.217:80",
       "country": "KR",
       "protocol": "HTTPS",
@@ -1303,20 +1111,8 @@
       "source": "ProxRipper"
     },
     {
-      "proxy": "208.95.20.33:8282",
-      "country": "US",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "210.211.113.35:80",
       "country": "VN",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "219.148.171.178:9445",
-      "country": "CN",
       "protocol": "HTTPS",
       "source": "ProxRipper"
     },
@@ -1351,18 +1147,6 @@
       "source": "ProxRipper"
     },
     {
-      "proxy": "38.156.246.1:999",
-      "country": "DO",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "38.183.212.8:999",
-      "country": "VE",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "38.19.43.184:999",
       "country": "CO",
       "protocol": "HTTPS",
@@ -1375,20 +1159,8 @@
       "source": "ProxRipper"
     },
     {
-      "proxy": "38.225.117.1:999",
-      "country": "CL",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "38.226.49.203:8080",
       "country": "PE",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "38.41.0.62:11201",
-      "country": "VE",
       "protocol": "HTTPS",
       "source": "ProxRipper"
     },
@@ -1399,20 +1171,8 @@
       "source": "ProxRipper"
     },
     {
-      "proxy": "38.7.20.200:999",
-      "country": "MX",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "38.75.82.216:999",
       "country": "DO",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "41.33.173.83:8080",
-      "country": "EG",
       "protocol": "HTTPS",
       "source": "ProxRipper"
     },
@@ -1453,12 +1213,6 @@
       "source": "ProxRipper"
     },
     {
-      "proxy": "45.179.200.65:999",
-      "country": "CO",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "47.107.107.24:80",
       "country": "CN",
       "protocol": "HTTPS",
@@ -1471,12 +1225,6 @@
       "source": "ProxRipper"
     },
     {
-      "proxy": "49.145.62.154:8080",
-      "country": "PH",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "49.149.122.204:8081",
       "country": "PH",
       "protocol": "HTTPS",
@@ -1485,18 +1233,6 @@
     {
       "proxy": "49.149.195.172:8081",
       "country": "PH",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "49.48.90.85:8080",
-      "country": "TH",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "58.147.186.31:3125",
-      "country": "ID",
       "protocol": "HTTPS",
       "source": "ProxRipper"
     },
@@ -1519,38 +1255,14 @@
       "source": "ProxRipper"
     },
     {
-      "proxy": "80.82.55.71:80",
-      "country": "RU",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "89.58.42.118:3129",
-      "country": "DE",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "90.156.196.230:3128",
       "country": "UZ",
       "protocol": "HTTPS",
       "source": "ProxRipper"
     },
     {
-      "proxy": "93.183.127.6:3128",
-      "country": "NL",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "98.154.21.253:4228",
       "country": "US",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "101.255.138.82:80",
-      "country": "ID",
       "protocol": "HTTPS",
       "source": "ProxRipper"
     },
@@ -1575,12 +1287,6 @@
     {
       "proxy": "102.66.163.87:9999",
       "country": "ZA",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "103.101.216.66:8080",
-      "country": "ID",
       "protocol": "HTTPS",
       "source": "ProxRipper"
     },
@@ -1621,12 +1327,6 @@
       "source": "ProxRipper"
     },
     {
-      "proxy": "103.156.17.171:8818",
-      "country": "ID",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "103.156.249.112:8085",
       "country": "ID",
       "protocol": "HTTPS",
@@ -1651,19 +1351,7 @@
       "source": "ProxRipper"
     },
     {
-      "proxy": "103.171.255.114:8080",
-      "country": "ID",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "103.171.255.204:8080",
-      "country": "ID",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "103.172.42.221:1111",
       "country": "ID",
       "protocol": "HTTPS",
       "source": "ProxRipper"
@@ -1682,12 +1370,6 @@
     },
     {
       "proxy": "103.175.46.28:8080",
-      "country": "ID",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "103.178.86.178:8080",
       "country": "ID",
       "protocol": "HTTPS",
       "source": "ProxRipper"
@@ -1747,42 +1429,6 @@
       "source": "ProxRipper"
     },
     {
-      "proxy": "103.247.14.27:3125",
-      "country": "ID",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "103.250.128.18:8082",
-      "country": "ID",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "103.48.68.82:83",
-      "country": "IN",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "103.48.68.82:84",
-      "country": "IN",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "103.48.71.114:83",
-      "country": "IN",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "103.48.71.186:83",
-      "country": "IN",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "103.55.22.236:8080",
       "country": "ID",
       "protocol": "HTTPS",
@@ -1790,12 +1436,6 @@
     },
     {
       "proxy": "103.66.47.38:8080",
-      "country": "ID",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "103.75.96.70:8080",
       "country": "ID",
       "protocol": "HTTPS",
       "source": "ProxRipper"
@@ -1809,18 +1449,6 @@
     {
       "proxy": "110.74.195.34:25",
       "country": "KH",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "111.125.242.34:1111",
-      "country": "IN",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "112.201.188.87:8080",
-      "country": "PH",
       "protocol": "HTTPS",
       "source": "ProxRipper"
     },
@@ -1843,12 +1471,6 @@
       "source": "ProxRipper"
     },
     {
-      "proxy": "116.101.54.121:8080",
-      "country": "VN",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "117.50.179.251:8081",
       "country": "CN",
       "protocol": "HTTPS",
@@ -1861,20 +1483,8 @@
       "source": "ProxRipper"
     },
     {
-      "proxy": "118.179.206.42:8080",
-      "country": "BD",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "119.188.131.55:17981",
       "country": "CN",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "121.174.186.199:8080",
-      "country": "KR",
       "protocol": "HTTPS",
       "source": "ProxRipper"
     },
@@ -1898,12 +1508,6 @@
     },
     {
       "proxy": "138.0.207.246:8082",
-      "country": "BR",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "138.122.140.194:3128",
       "country": "BR",
       "protocol": "HTTPS",
       "source": "ProxRipper"
@@ -1939,12 +1543,6 @@
       "source": "ProxRipper"
     },
     {
-      "proxy": "144.31.146.10:8080",
-      "country": "IN",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "148.135.181.168:8082",
       "country": "TR",
       "protocol": "HTTPS",
@@ -1953,12 +1551,6 @@
     {
       "proxy": "152.200.200.217:999",
       "country": "CO",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "154.201.126.245:8080",
-      "country": "IN",
       "protocol": "HTTPS",
       "source": "ProxRipper"
     },
@@ -1975,18 +1567,6 @@
       "source": "ProxRipper"
     },
     {
-      "proxy": "43.108.35.203:8899",
-      "country": "KR",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "43.132.189.30:3128",
-      "country": "HK",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "43.156.236.238:80",
       "country": "SG",
       "protocol": "HTTPS",
@@ -1994,12 +1574,6 @@
     },
     {
       "proxy": "43.252.107.46:8080",
-      "country": "ID",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "43.252.238.196:1080",
       "country": "ID",
       "protocol": "HTTPS",
       "source": "ProxRipper"
@@ -2047,12 +1621,6 @@
       "source": "ProxRipper"
     },
     {
-      "proxy": "45.171.129.1:8080",
-      "country": "BR",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "45.174.168.26:999",
       "country": "MX",
       "protocol": "HTTPS",
@@ -2065,26 +1633,8 @@
       "source": "ProxRipper"
     },
     {
-      "proxy": "45.174.243.96:999",
-      "country": "MX",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "45.174.253.9:999",
-      "country": "MX",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "45.177.16.132:999",
       "country": "PY",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "45.179.200.89:999",
-      "country": "CO",
       "protocol": "HTTPS",
       "source": "ProxRipper"
     },
@@ -2096,12 +1646,6 @@
     },
     {
       "proxy": "45.189.252.50:999",
-      "country": "MX",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "45.190.78.146:999",
       "country": "MX",
       "protocol": "HTTPS",
       "source": "ProxRipper"
@@ -2126,12 +1670,6 @@
     },
     {
       "proxy": "45.195.105.20:8080",
-      "country": "IN",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "45.195.91.126:8080",
       "country": "IN",
       "protocol": "HTTPS",
       "source": "ProxRipper"
@@ -2191,26 +1729,8 @@
       "source": "ProxRipper"
     },
     {
-      "proxy": "49.148.17.137:9999",
-      "country": "PH",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "49.213.59.105:8082",
       "country": "ID",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "49.213.59.108:8082",
-      "country": "ID",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "5.200.72.62:3128",
-      "country": "IR",
       "protocol": "HTTPS",
       "source": "ProxRipper"
     },
@@ -2221,26 +1741,8 @@
       "source": "ProxRipper"
     },
     {
-      "proxy": "51.38.120.110:10011",
-      "country": "DE",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "58.214.243.92:443",
       "country": "CN",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "58.69.123.64:8082",
-      "country": "PH",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "62.133.60.5:3128",
-      "country": "DE",
       "protocol": "HTTPS",
       "source": "ProxRipper"
     },
@@ -2265,12 +1767,6 @@
     {
       "proxy": "67.206.213.202:3120",
       "country": "PR",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "69.5.23.38:3128",
-      "country": "ID",
       "protocol": "HTTPS",
       "source": "ProxRipper"
     },
@@ -2311,44 +1807,14 @@
       "source": "ProxRipper"
     },
     {
-      "proxy": "94.130.50.22:3129",
-      "country": "DE",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "96.30.70.8:8081",
       "country": "TH",
       "protocol": "HTTPS",
       "source": "ProxRipper"
     },
     {
-      "proxy": "1.12.125.97:8080",
-      "country": "CN",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "101.255.105.222:8080",
       "country": "ID",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "102.0.25.36:8080",
-      "country": "KE",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "103.103.3.6:8080",
-      "country": "IN",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "103.110.31.155:8080",
-      "country": "PG",
       "protocol": "HTTPS",
       "source": "ProxRipper"
     },
@@ -2383,25 +1849,7 @@
       "source": "ProxRipper"
     },
     {
-      "proxy": "103.153.134.27:80",
-      "country": "ID",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "103.153.190.229:8181",
-      "country": "ID",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "103.158.210.80:8082",
-      "country": "ID",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "103.163.111.16:8080",
       "country": "ID",
       "protocol": "HTTPS",
       "source": "ProxRipper"
@@ -2421,18 +1869,6 @@
     {
       "proxy": "103.172.152.13:8082",
       "country": "IN",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "103.172.42.209:1111",
-      "country": "ID",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "103.174.236.67:8999",
-      "country": "ID",
       "protocol": "HTTPS",
       "source": "ProxRipper"
     },
@@ -2461,12 +1897,6 @@
       "source": "ProxRipper"
     },
     {
-      "proxy": "103.18.205.162:8080",
-      "country": "AU",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "103.18.79.108:8080",
       "country": "ID",
       "protocol": "HTTPS",
@@ -2480,18 +1910,6 @@
     },
     {
       "proxy": "103.184.180.2:1111",
-      "country": "ID",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "103.185.43.117:1080",
-      "country": "ID",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "103.189.97.38:1080",
       "country": "ID",
       "protocol": "HTTPS",
       "source": "ProxRipper"
@@ -2545,32 +1963,8 @@
       "source": "ProxRipper"
     },
     {
-      "proxy": "103.68.233.253:8083",
-      "country": "ID",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "103.75.53.124:8585",
-      "country": "ID",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "103.81.195.213:3125",
-      "country": "ID",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "103.86.135.114:8080",
       "country": "PK",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "103.88.234.239:40005",
-      "country": "MX",
       "protocol": "HTTPS",
       "source": "ProxRipper"
     },
@@ -2583,36 +1977,6 @@
     {
       "proxy": "110.76.144.119:8082",
       "country": "ID",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "111.119.162.248:10915",
-      "country": "PK",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "111.119.162.248:10920",
-      "country": "PK",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "111.119.162.248:10922",
-      "country": "PK",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "111.119.162.248:10923",
-      "country": "PK",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "111.119.162.248:10973",
-      "country": "PK",
       "protocol": "HTTPS",
       "source": "ProxRipper"
     },
@@ -2649,12 +2013,6 @@
     {
       "proxy": "111.201.98.99:8888",
       "country": "CN",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "112.201.227.236:5050",
-      "country": "PH",
       "protocol": "HTTPS",
       "source": "ProxRipper"
     },
@@ -2761,38 +2119,8 @@
       "source": "ProxRipper"
     },
     {
-      "proxy": "130.110.103.245:3128",
-      "country": "SA",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "131.100.50.158:3128",
       "country": "CO",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "134.209.29.120:3128",
-      "country": "GB",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "138.197.68.35:4857",
-      "country": "US",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "139.162.78.109:80",
-      "country": "JP",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "139.59.1.14:80",
-      "country": "IN",
       "protocol": "HTTPS",
       "source": "ProxRipper"
     },
@@ -2811,12 +2139,6 @@
     {
       "proxy": "141.148.206.170:3129",
       "country": "IN",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "143.255.86.201:999",
-      "country": "VE",
       "protocol": "HTTPS",
       "source": "ProxRipper"
     },
@@ -2863,25 +2185,7 @@
       "source": "ProxRipper"
     },
     {
-      "proxy": "159.203.61.169:8080",
-      "country": "CA",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "160.19.18.165:8181",
-      "country": "ID",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "160.20.39.3:3125",
-      "country": "ID",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "160.20.39.93:3125",
       "country": "ID",
       "protocol": "HTTPS",
       "source": "ProxRipper"
@@ -2893,20 +2197,8 @@
       "source": "ProxRipper"
     },
     {
-      "proxy": "160.22.207.73:8082",
-      "country": "ID",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "161.22.33.185:999",
       "country": "VE",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "161.35.70.249:8080",
-      "country": "DE",
       "protocol": "HTTPS",
       "source": "ProxRipper"
     },
@@ -2919,12 +2211,6 @@
     {
       "proxy": "163.223.78.125:8080",
       "country": "ID",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "170.254.228.90:999",
-      "country": "CO",
       "protocol": "HTTPS",
       "source": "ProxRipper"
     },
@@ -2953,19 +2239,7 @@
       "source": "ProxRipper"
     },
     {
-      "proxy": "178.216.202.180:8888",
-      "country": "PL",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "178.92.72.229:8080",
-      "country": "IN",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "178.92.72.54:8080",
       "country": "IN",
       "protocol": "HTTPS",
       "source": "ProxRipper"
@@ -2983,20 +2257,8 @@
       "source": "ProxRipper"
     },
     {
-      "proxy": "180.105.138.136:1080",
-      "country": "CN",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "180.190.188.49:8080",
       "country": "PH",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "181.119.107.80:3128",
-      "country": "GT",
       "protocol": "HTTPS",
       "source": "ProxRipper"
     },
@@ -3025,20 +2287,8 @@
       "source": "ProxRipper"
     },
     {
-      "proxy": "185.100.47.106:443",
-      "country": "IR",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "185.133.213.86:8074",
       "country": "MM",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "185.191.239.248:3128",
-      "country": "CH",
       "protocol": "HTTPS",
       "source": "ProxRipper"
     },
@@ -3091,20 +2341,8 @@
       "source": "ProxRipper"
     },
     {
-      "proxy": "188.132.249.157:8080",
-      "country": "TR",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "189.124.85.77:33333",
       "country": "BR",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "190.119.185.156:999",
-      "country": "PE",
       "protocol": "HTTPS",
       "source": "ProxRipper"
     },
@@ -3115,32 +2353,14 @@
       "source": "ProxRipper"
     },
     {
-      "proxy": "190.71.186.42:11211",
-      "country": "CO",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "192.99.70.178:3128",
       "country": "CA",
       "protocol": "HTTPS",
       "source": "ProxRipper"
     },
     {
-      "proxy": "193.43.140.240:8080",
-      "country": "SY",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "195.226.213.254:8888",
       "country": "UA",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "198.15.30.50:8080",
-      "country": "ID",
       "protocol": "HTTPS",
       "source": "ProxRipper"
     },
@@ -3193,12 +2413,6 @@
       "source": "ProxRipper"
     },
     {
-      "proxy": "23.253.80.88:80",
-      "country": "US",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "24.152.40.49:8080",
       "country": "PY",
       "protocol": "HTTPS",
@@ -3223,18 +2437,6 @@
       "source": "ProxRipper"
     },
     {
-      "proxy": "38.19.36.86:999",
-      "country": "MX",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "38.210.177.61:999",
-      "country": "MX",
-      "protocol": "HTTPS",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "38.210.179.108:999",
       "country": "MX",
       "protocol": "HTTPS",
@@ -3247,18 +2449,2742 @@
       "source": "ProxRipper"
     },
     {
-      "proxy": "38.75.82.221:999",
+      "proxy": "4.144.146.21:80",
+      "country": "SG",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "45.160.74.1:999",
+      "country": "CL",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "45.171.166.34:999",
+      "country": "PE",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "45.173.7.10:999",
+      "country": "CO",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "45.174.94.72:8087",
+      "country": "MX",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "45.179.246.65:999",
+      "country": "CO",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "45.184.103.183:999",
+      "country": "VE",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "45.194.41.141:8080",
+      "country": "IN",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "45.194.41.43:8080",
+      "country": "IN",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "45.195.249.146:8080",
+      "country": "PH",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "45.195.249.150:8080",
+      "country": "PH",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "45.195.90.142:8080",
+      "country": "IN",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "45.198.147.238:8080",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "45.198.20.239:3125",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "45.198.33.65:8080",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "45.229.28.9:11211",
+      "country": "AR",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "45.229.32.147:999",
       "country": "DO",
       "protocol": "HTTPS",
       "source": "ProxRipper"
     },
     {
-      "proxy": "4.144.146.21:80",
+      "proxy": "45.229.58.33:999",
+      "country": "PA",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "45.230.170.13:999",
+      "country": "VE",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "45.236.66.163:8520",
+      "country": "BR",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "45.26.30.144:8888",
+      "country": "US",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "46.203.233.116:3128",
+      "country": "DE",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "47.242.218.151:9002",
+      "country": "HK",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "47.242.218.151:9020",
+      "country": "HK",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "47.245.30.253:8080",
+      "country": "JP",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "47.250.112.180:443",
+      "country": "MY",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "49.147.103.170:5050",
+      "country": "PH",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "49.149.8.215:8082",
+      "country": "PH",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "49.229.100.235:8080",
+      "country": "TH",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "49.233.205.10:3128",
+      "country": "CN",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "49.48.107.194:8081",
+      "country": "TH",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "5.128.120.101:8181",
+      "country": "RU",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "61.130.176.21:4398",
+      "country": "CN",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "61.149.135.125:8888",
+      "country": "CN",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "64.204.90.17:999",
+      "country": "CO",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "64.76.73.131:999",
+      "country": "PE",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "66.175.235.158:8118",
+      "country": "US",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "76.169.128.104:8080",
+      "country": "US",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "77.225.198.220:9812",
+      "country": "ES",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "78.101.198.138:8080",
+      "country": "QA",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "79.106.79.154:8989",
+      "country": "AL",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "8.243.126.136:8801",
+      "country": "PE",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "80.78.128.94:8080",
+      "country": "ES",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "82.138.122.43:80",
+      "country": "TR",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "83.110.87.227:8181",
+      "country": "AE",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "83.143.24.66:80",
+      "country": "BW",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "84.119.198.99:443",
+      "country": "DE",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "84.22.48.150:8080",
+      "country": "AL",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "84.242.58.9:8080",
+      "country": "PS",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "85.239.156.66:5555",
+      "country": "CZ",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "87.251.78.206:3128",
+      "country": "RU",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "88.119.139.237:53281",
+      "country": "LT",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "88.84.223.156:5650",
+      "country": "RU",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "89.124.81.186:1082",
+      "country": "NL",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "89.151.133.216:8080",
+      "country": "RU",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "89.163.221.226:3128",
+      "country": "DE",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "89.19.116.161:8080",
+      "country": "UA",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "89.251.21.148:8080",
+      "country": "TR",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "89.36.161.137:3128",
+      "country": "LV",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "89.43.132.197:8080",
+      "country": "SY",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "91.202.5.45:3128",
+      "country": "NL",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "91.236.138.173:81",
+      "country": "UA",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "91.26.188.170:8080",
+      "country": "DE",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "92.249.62.108:8080",
+      "country": "TR",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "92.86.207.198:8080",
+      "country": "RO",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "93.114.183.172:8888",
+      "country": "TR",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "95.179.206.88:80",
+      "country": "GB",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "95.66.142.11:8080",
+      "country": "RU",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "95.67.121.206:45554",
+      "country": "UA",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "1.4.195.14:8080",
+      "country": "TH",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "101.96.98.153:8080",
+      "country": "VN",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "102.134.19.170:8080",
+      "country": "NG",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "102.208.228.90:3128",
+      "country": "ZA",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "102.208.228.90:8080",
+      "country": "ZA",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "102.209.0.138:8080",
+      "country": "LY",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "102.221.35.177:3128",
+      "country": "KE",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "102.66.104.162:8865",
+      "country": "ZA",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "102.68.128.211:8080",
+      "country": "LY",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.106.219.171:8081",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.106.219.213:8080",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.106.34.49:4995",
+      "country": "BD",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.107.78.192:8080",
+      "country": "BD",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.109.96.57:1994",
+      "country": "BD",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.118.124.137:6969",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.120.174.75:1818",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.120.76.34:8085",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.120.76.54:8080",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.122.0.52:8181",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.122.1.13:8181",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.124.137.171:8080",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.124.139.170:8080",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.124.197.227:8080",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.130.63.13:1080",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.132.52.189:8080",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.139.126.211:8080",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.139.98.50:8080",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.139.98.69:8080",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.141.174.38:11411",
+      "country": "BD",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.142.255.32:8080",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.144.54.53:8082",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.145.34.112:1111",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.145.45.237:8090",
+      "country": "BD",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.147.211.34:8080",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.148.195.22:8080",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.148.83.110:8889",
+      "country": "BD",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.15.140.177:44759",
+      "country": "BD",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.150.166.160:8090",
+      "country": "BD",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.151.177.221:8080",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.151.22.66:8082",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.151.23.89:8082",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.152.21.59:3128",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.152.238.23:1080",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.154.231.61:8090",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.154.77.204:1111",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.155.167.149:8181",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.155.168.157:8299",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.155.168.160:8299",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.155.196.178:8080",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.155.246.42:8080",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.156.16.67:8080",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.156.75.41:8080",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.156.75.49:8282",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.157.78.117:7777",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.157.78.85:8080",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.157.79.17:8080",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.157.83.231:8080",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.160.68.215:8080",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.161.195.22:3125",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.162.16.109:8080",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.162.17.203:8080",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.162.54.26:1111",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.163.103.208:8080",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.163.13.14:1111",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.165.157.154:3125",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.166.159.227:8080",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.166.255.170:8080",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.166.27.254:8080",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.166.9.50:3128",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.168.148.129:8080",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.168.254.26:1111",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.168.44.83:8081",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.169.132.70:8080",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.169.254.75:6080",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.170.22.145:8080",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.170.46.245:8080",
+      "country": "IN",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.171.245.124:8090",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.171.255.170:8080",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.171.255.178:8080",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.172.172.243:8080",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.172.42.105:1111",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.172.42.17:1111",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.176.174.100:8080",
+      "country": "BD",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.176.96.140:8082",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.176.96.178:1111",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.176.97.195:8082",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.176.97.206:8082",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.177.153.42:8080",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.179.218.7:8080",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.18.77.90:8080",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.180.123.15:8080",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.188.169.95:8080",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.188.252.65:1234",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.188.50.82:3127",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.189.97.113:8087",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.19.58.139:8080",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.19.78.225:999",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.191.154.62:8080",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.195.16.2:8080",
+      "country": "IN",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.203.234.103:8080",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.204.82.34:3212",
+      "country": "BD",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.205.223.30:8080",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.209.10.166:8080",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.22.98.69:8080",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.220.23.113:8080",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.231.236.217:8182",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.234.35.147:3128",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.235.181.245:8080",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.249.18.148:10001",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.39.51.157:1080",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.39.51.184:8088",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.39.70.252:8181",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.41.97.225:83",
+      "country": "IN",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.46.11.129:8090",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.53.79.198:8050",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.54.43.131:8080",
+      "country": "BD",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.72.198.132:55",
+      "country": "BD",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.81.65.77:8080",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.88.234.239:40014",
+      "country": "MX",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.90.67.35:8080",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "104.225.162.20:8082",
+      "country": "US",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "104.251.93.183:16062",
+      "country": "US",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "105.22.37.218:8080",
+      "country": "ZA",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "105.28.176.41:9812",
+      "country": "MU",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "108.61.29.163:10001",
+      "country": "US",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "110.164.175.110:8080",
+      "country": "TH",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "110.74.206.40:8181",
+      "country": "KH",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "111.192.25.85:8888",
+      "country": "CN",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "111.192.45.90:8888",
+      "country": "CN",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "111.193.242.242:8888",
+      "country": "CN",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "111.193.243.224:8888",
+      "country": "CN",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "111.92.88.27:3128",
+      "country": "IN",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "112.137.128.108:80",
+      "country": "VN",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "112.203.217.178:8082",
+      "country": "PH",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "113.192.1.146:8181",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "113.192.1.44:8181",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "113.192.12.4:3333",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "114.244.221.178:8888",
+      "country": "CN",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "114.245.153.111:8888",
+      "country": "CN",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "114.246.197.196:8888",
+      "country": "CN",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "114.246.200.25:8888",
+      "country": "CN",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "114.249.209.219:8888",
+      "country": "CN",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "114.249.230.202:8888",
+      "country": "CN",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "114.250.195.77:8888",
+      "country": "CN",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "114.252.12.211:8888",
+      "country": "CN",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "114.254.49.43:8888",
+      "country": "CN",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "114.69.225.6:83",
+      "country": "IN",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "115.127.95.82:8080",
+      "country": "BD",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "116.204.166.202:8080",
+      "country": "TR",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "118.179.136.153:81",
+      "country": "BD",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "120.28.135.76:8082",
+      "country": "PH",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "120.28.189.133:8100",
+      "country": "PH",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "121.207.137.110:1083",
+      "country": "CN",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "123.0.19.210:10000",
+      "country": "BD",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "123.112.162.30:8888",
+      "country": "CN",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "123.119.176.120:8888",
+      "country": "CN",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "123.119.24.241:8888",
+      "country": "CN",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "123.121.117.244:8888",
+      "country": "CN",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "123.121.123.115:8888",
+      "country": "CN",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "123.121.208.63:8888",
+      "country": "CN",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "123.57.0.163:8888",
+      "country": "CN",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "124.105.110.52:8082",
+      "country": "PH",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "124.83.127.152:8082",
+      "country": "PH",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "134.185.85.16:3128",
       "country": "SG",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "138.0.143.120:8080",
+      "country": "BR",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "138.117.14.249:8080",
+      "country": "AR",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "144.31.255.9:1080",
+      "country": "DE",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "146.190.60.147:8005",
+      "country": "US",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "146.190.60.147:8013",
+      "country": "US",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "148.224.57.58:999",
+      "country": "MX",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "148.244.144.194:8097",
+      "country": "MX",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "150.136.172.124:8082",
+      "country": "US",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "152.42.177.32:8888",
+      "country": "SG",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "154.19.39.111:8080",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "154.27.196.9:999",
+      "country": "MX",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "154.62.127.155:999",
+      "country": "VE",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "154.73.29.129:8080",
+      "country": "LY",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "154.88.136.182:999",
+      "country": "DO",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "156.67.110.124:10808",
+      "country": "IN",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "157.15.187.195:7777",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "157.15.62.73:8080",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "157.20.142.34:9595",
+      "country": "PH",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "159.195.110.240:8080",
+      "country": "AT",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "160.187.174.249:80",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "160.19.19.170:3125",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "160.19.19.18:8080",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "160.191.192.45:8090",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "160.202.42.156:80",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "160.202.42.156:8080",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "160.22.45.6:8080",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "160.22.65.129:4004",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "160.25.196.44:8090",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "160.25.54.34:7777",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "161.132.45.17:1081",
+      "country": "PE",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "161.230.153.228:3128",
+      "country": "PT",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "162.4.96.221:8080",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "164.163.73.5:999",
+      "country": "HN",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "164.52.11.194:18080",
+      "country": "TW",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "165.99.192.105:1111",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "167.249.28.73:999",
+      "country": "CL",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "168.144.117.43:3129",
+      "country": "IN",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "170.245.132.82:9000",
+      "country": "PY",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "170.81.131.70:3128",
+      "country": "BR",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "171.100.254.137:8080",
+      "country": "TH",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "172.85.99.17:16062",
+      "country": "US",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "173.205.202.33:8181",
+      "country": "US",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "175.106.14.126:3128",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "176.111.37.216:39811",
+      "country": "HK",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "177.234.217.88:999",
+      "country": "EC",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "177.52.221.114:999",
+      "country": "DO",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "178.159.124.54:65056",
+      "country": "UA",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "178.217.168.164:55443",
+      "country": "KG",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "179.1.182.27:999",
+      "country": "CO",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "179.43.10.233:8874",
+      "country": "BR",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "179.49.113.230:999",
+      "country": "HN",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "179.63.6.239:999",
+      "country": "PE",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "180.191.16.9:8085",
+      "country": "PH",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "180.191.20.5:8081",
+      "country": "PH",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "180.211.93.91:8080",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "181.119.185.194:999",
+      "country": "EC",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "181.188.203.112:999",
+      "country": "EC",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "181.205.134.125:8080",
+      "country": "CO",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "181.224.205.42:999",
+      "country": "DO",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "181.225.53.141:999",
+      "country": "VE",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "181.233.100.101:8080",
+      "country": "PY",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "181.49.100.190:8080",
+      "country": "CO",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "181.78.186.3:999",
+      "country": "PA",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "181.78.208.227:999",
+      "country": "CO",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "181.78.44.63:999",
+      "country": "HN",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "182.253.174.31:8080",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "182.253.204.196:8080",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "182.48.66.154:8080",
+      "country": "BD",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "185.196.182.22:8080",
+      "country": "AL",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "185.225.43.57:8080",
+      "country": "SY",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "185.226.194.248:999",
+      "country": "VE",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "185.238.238.121:58080",
+      "country": "PL",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "185.238.238.49:58080",
+      "country": "PL",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "186.167.113.103:999",
+      "country": "VE",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "186.167.53.178:8282",
+      "country": "VE",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "186.232.176.210:3128",
+      "country": "BR",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "186.33.0.203:999",
+      "country": "GT",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "187.102.219.32:999",
+      "country": "AR",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "187.175.168.26:8080",
+      "country": "MX",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "187.190.127.212:80",
+      "country": "MX",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "187.190.58.152:80",
+      "country": "MX",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "187.249.37.227:2024",
+      "country": "MX",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "188.161.150.217:9090",
+      "country": "PS",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "188.190.177.47:8989",
+      "country": "UA",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "189.203.181.34:8080",
+      "country": "MX",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "189.51.168.30:999",
+      "country": "MX",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "190.2.214.66:999",
+      "country": "CO",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "190.237.238.11:999",
+      "country": "PE",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "190.60.58.236:999",
+      "country": "CO",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "190.7.19.110:8080",
+      "country": "AR",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "190.8.165.193:999",
+      "country": "VE",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "191.103.219.225:48612",
+      "country": "CO",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "192.203.0.210:999",
+      "country": "PR",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "192.203.0.78:999",
+      "country": "PR",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "192.227.184.201:7777",
+      "country": "US",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "192.3.127.40:80",
+      "country": "US",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "193.181.35.74:8118",
+      "country": "SE",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "193.24.30.50:37777",
+      "country": "UA",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "193.33.157.2:8080",
+      "country": "SY",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "193.43.140.222:7890",
+      "country": "SY",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "194.124.36.132:8080",
+      "country": "TR",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "194.182.178.90:3128",
+      "country": "BG",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "195.154.84.121:10801",
+      "country": "FR",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "195.158.8.123:3128",
+      "country": "UZ",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "195.226.213.251:8888",
+      "country": "UA",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "195.34.91.67:8080",
+      "country": "UA",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "195.66.197.169:39724",
+      "country": "UA",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "195.90.215.186:3443",
+      "country": "DE",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "197.232.25.204:8080",
+      "country": "KE",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "198.15.30.122:8080",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "198.15.30.206:8080",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "2.139.41.14:3128",
+      "country": "ES",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "2.28.105.45:8888",
+      "country": "DE",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "200.114.81.219:8080",
+      "country": "AR",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "200.121.48.195:999",
+      "country": "PE",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "200.125.169.51:999",
+      "country": "DO",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "200.24.148.21:999",
+      "country": "EC",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "200.24.152.222:999",
+      "country": "EC",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "200.39.137.137:999",
+      "country": "CL",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "200.59.186.158:999",
+      "country": "VE",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "200.94.38.46:2604",
+      "country": "MX",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "201.139.183.210:999",
+      "country": "MX",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "201.157.235.197:8080",
+      "country": "BR",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "201.184.112.178:8080",
+      "country": "CO",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "201.4.65.18:8080",
+      "country": "TR",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "201.4.69.49:8080",
+      "country": "SY",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "201.7.31.171:8080",
+      "country": "TR",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "201.7.31.41:8080",
+      "country": "TR",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "201.7.31.43:8080",
+      "country": "TR",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "201.7.31.55:8080",
+      "country": "TR",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "202.1.24.149:3125",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "202.166.220.40:8080",
+      "country": "NP",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "202.40.180.145:38423",
+      "country": "BD",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "202.47.188.187:8080",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "202.58.66.44:8080",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "202.58.77.114:8080",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "202.58.77.214:8080",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "202.8.29.91:8080",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "203.112.75.209:1111",
+      "country": "BD",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "203.142.5.91:999",
+      "country": "MX",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "203.174.15.138:8080",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "203.175.103.39:3125",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "203.177.217.222:8082",
+      "country": "PH",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "203.201.190.31:8080",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "203.205.49.2:10031",
+      "country": "VN",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "203.205.49.2:10137",
+      "country": "VN",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "203.207.56.175:1452",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "206.135.11.170:8080",
+      "country": "MX",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "206.135.38.38:999",
+      "country": "MX",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "206.135.56.50:8080",
+      "country": "MX",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "207.180.228.55:80",
+      "country": "FR",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "207.246.234.115:4669",
+      "country": "US",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "209.45.65.53:1011",
+      "country": "PE",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "210.213.99.36:8081",
+      "country": "PH",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "210.79.140.156:8181",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "210.87.124.59:1111",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "212.1.86.225:81",
+      "country": "UA",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "213.169.33.10:8001",
+      "country": "BG",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "213.199.46.59:8082",
+      "country": "FR",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "217.12.215.163:10808",
+      "country": "DE",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "217.77.102.18:3128",
+      "country": "RU",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "218.207.164.174:7890",
+      "country": "CN",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "219.93.111.125:9412",
+      "country": "MY",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "221.221.157.102:8888",
+      "country": "CN",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "221.221.157.49:8888",
+      "country": "CN",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "221.221.159.97:8888",
+      "country": "CN",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "221.221.162.6:8888",
+      "country": "CN",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "221.221.163.120:8888",
+      "country": "CN",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "221.221.163.25:8888",
+      "country": "CN",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "222.128.173.231:8888",
+      "country": "CN",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "223.205.114.177:8080",
+      "country": "TH",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "223.25.106.206:8181",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "223.25.110.77:8090",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "23.185.192.66:8181",
+      "country": "US",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "24.152.53.68:999",
+      "country": "GT",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "24.172.82.94:53281",
+      "country": "US",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "27.112.66.142:8181",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "27.123.222.193:8080",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "27.67.54.178:8080",
+      "country": "VN",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "27.69.78.20:2080",
+      "country": "VN",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "31.148.99.133:4000",
+      "country": "GB",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "31.24.252.97:8080",
+      "country": "IQ",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "36.50.56.211:8818",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "38.10.82.128:999",
+      "country": "DO",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "38.103.250.107:8080",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "38.103.250.205:8080",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "38.158.83.241:999",
+      "country": "PE",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "38.158.83.65:999",
+      "country": "PE",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "38.159.223.159:999",
+      "country": "DO",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "38.172.129.34:999",
+      "country": "PE",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "38.183.146.163:8080",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "38.19.36.206:999",
+      "country": "MX",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "38.191.149.127:999",
+      "country": "MX",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "38.191.161.187:999",
+      "country": "DO",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "38.191.208.41:999",
+      "country": "CO",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "38.191.42.201:999",
+      "country": "CO",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "38.199.26.34:999",
+      "country": "CO",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "38.199.30.82:999",
+      "country": "CO",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "38.199.66.11:999",
+      "country": "CO",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "38.210.179.156:999",
+      "country": "MX",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "38.210.179.204:999",
+      "country": "MX",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "38.210.179.33:999",
+      "country": "MX",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "38.210.201.144:999",
+      "country": "MX",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "38.211.76.145:999",
+      "country": "CO",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "38.211.76.201:999",
+      "country": "CO",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "38.224.150.82:999",
+      "country": "DO",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "38.49.138.197:999",
+      "country": "MX",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "38.50.165.122:999",
+      "country": "DO",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "38.50.165.123:999",
+      "country": "DO",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "38.52.148.18:3125",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "38.57.65.195:999",
+      "country": "DO",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "38.58.117.72:8080",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "38.58.130.128:999",
+      "country": "MX",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "38.7.24.17:8080",
+      "country": "HN",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "38.75.82.213:999",
+      "country": "DO",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "41.216.190.239:8080",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "41.33.245.138:1981",
+      "country": "EG",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "41.98.181.176:3128",
+      "country": "DZ",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "43.153.195.69:80",
+      "country": "SG",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "43.156.83.6:3128",
+      "country": "SG",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "43.160.222.70:3128",
+      "country": "SG",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "43.252.236.215:8080",
+      "country": "ID",
+      "protocol": "HTTPS",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "43.252.238.138:8080",
+      "country": "ID",
       "protocol": "HTTPS",
       "source": "ProxRipper"
     }
   ],
-  "count": 543,
-  "updated": 1791577513.656797
+  "count": 864,
+  "updated": 1791592585.0360909
 }
